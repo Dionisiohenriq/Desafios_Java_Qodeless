@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b78d12c-4235-49d9-b129-38d5505c74fe" name="Changes" comment="Desafios 2 e 3">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafiosQodeless.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Desafio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Desafio3.java" afterDir="false" />
+    <list default="true" id="9b78d12c-4235-49d9-b129-38d5505c74fe" name="Changes" comment="Desafios 1 e 4 adicionados">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio4/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio4/Desafio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9289aec9-4d7e-4bc6-8a16-b55aaf2f7899" />
+        <option name="url" value="https://github.com/Dionisiohenriq/Desafios_Java_Qodeless.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,11 +46,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Dev/ClinicaElla"
+    "last_opened_file_path": "C:/Dev/ClinicaElla",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Desafio4">
     <configuration name="Desafio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio3" />
       <module name="DesafiosQodeless" />
@@ -53,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Desafio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio4.Desafio4" />
+      <module name="DesafiosQodeless" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio4" />
         <item itemvalue="Application.Desafio3" />
       </list>
     </recent_temporary>
@@ -67,8 +88,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652308748350</updated>
-      <workItem from="1652308750193" duration="7073000" />
+      <workItem from="1652308750193" duration="9624000" />
     </task>
+    <task id="LOCAL-00001" summary="Desafios 2 e 3">
+      <created>1652325769859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652325769859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Desafios 2 e 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios 2 e 3" />
+    <MESSAGE value="Desafios 1 e 4 adicionados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios 1 e 4 adicionados" />
   </component>
 </project>
